@@ -9,7 +9,7 @@ end
 def summon_captain_planet(array)# code an argument here
   # Your code here
   array.collect do |counter|
-    [counter]
+    "#{counter.capatalize]!"
   
 end
 end
