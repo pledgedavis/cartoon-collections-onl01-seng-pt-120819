@@ -4,7 +4,7 @@ def roll_call_dwarves(array)# code an argument here
   while counter < array.length 
   array
   counter += 1
-  
+  .each do |color|
 end
   array
 end
