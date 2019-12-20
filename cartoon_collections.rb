@@ -2,7 +2,7 @@ def roll_call_dwarves(array)# code an argument here
   # Your code here
   counter = 0 
   while counter < array.length 
-  array[counter]
+  array
   counter += 1
   
 end
