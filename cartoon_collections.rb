@@ -29,6 +29,6 @@ end
 
 def find_the_cheese(array)# code an argument here
   # the array below is here to help
-  cheese_types = ["cheddar", "gouda", "camembert"]. do |string|
-  return string []
+  cheese_types = ["cheddar", "gouda", "camembert"] 
+  puts cheese_types[0]
 end
