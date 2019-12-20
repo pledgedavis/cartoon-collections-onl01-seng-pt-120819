@@ -19,9 +19,11 @@ end
 def long_planeteer_calls(array)# code an argument here
   # Your code here
   # array.each do |string|
-  
-  
-  
+#   ["Red", "Yellow", "Blue"].each do |color|
+#   puts "There are #{color.length} letters in #{color}"
+# end #=> ["Red", "Yellow", "Blue"]
+  array.each do |color|
+  array
   
 end
 
