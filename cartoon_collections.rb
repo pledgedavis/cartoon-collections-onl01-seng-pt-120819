@@ -23,7 +23,7 @@ def long_planeteer_calls(array)# code an argument here
 #   puts "There are #{color.length} letters in #{color}"
 # end #=> ["Red", "Yellow", "Blue"]
   array.all? do |color|
-  color >= 4
+  color.length >= 4
   end
 end
 
