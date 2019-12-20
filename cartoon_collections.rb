@@ -5,6 +5,7 @@ def roll_call_dwarves(array)# code an argument here
   # array
   # counter += 1
   array.each do |counter|
+    puts counter.list
     
 end
   # array
